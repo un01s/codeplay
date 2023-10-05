@@ -34,4 +34,9 @@ Check your localhost, http://127.0.0.1:12345/
 
 An array has a fixed size. A slice is dynamically-sized, flexible view into the elements of an array. 
 
+## reference
+
+* [Go Programming Language Chinese](https://books.studygolang.com/gopl-zh/)
+
+* [Advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book/)
 

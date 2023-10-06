@@ -10,4 +10,6 @@
 
 * [leetcode blind75](https://github.com/ldtech007/leetcode)
 
+* [Krahets 88](https://leetcode.cn/studyplan/selected-coding-interview/)
+
 * [books in Chinese](https://github.com/greyireland/awesome-programming-books-1)

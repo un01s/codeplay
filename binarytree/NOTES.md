@@ -14,6 +14,8 @@ Then similarly, the following problems could be solved too with small changes.
 
 * [100 same tree](https://github.com/un01s/codeplay/blob/main/binarytree/0100-sametree.cpp)
 
+* [572 subtree](https://github.com/un01s/codeplay/blob/main/binarytree/0572-subtree.cpp)
+
 ## reference
 
 * [1 recursive template for binary tree problems](https://leetcode.cn/problems/maximum-depth-of-binary-tree/solutions/1413111/yi-tao-mo-ban-jie-jue-duo-ge-by-zhang-xi-yqep/)

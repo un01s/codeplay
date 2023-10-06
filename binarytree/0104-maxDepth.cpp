@@ -33,7 +33,8 @@ public:
     }
 };
 
-// template
+// template for binary tree
+// 
 class Solution {
 public:
     // at one level of the recursive, just think about this level

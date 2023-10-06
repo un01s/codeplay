@@ -22,6 +22,10 @@ Then similarly, the following problems could be solved too with small changes.
 
 * [113 path sum II](https://github.com/un01s/codeplay/blob/main/binarytree/0113-pathSumII.cpp)
 
+## [102 level traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+
+
 ## reference
 
 * [1 recursive template for binary tree problems](https://leetcode.cn/problems/maximum-depth-of-binary-tree/solutions/1413111/yi-tao-mo-ban-jie-jue-duo-ge-by-zhang-xi-yqep/)

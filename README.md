@@ -1,5 +1,11 @@
 # codeplay
 
+## double-pointer
+
+Double-pointer is an interesting approach. It has several variant such as fast-slow and left-right.
+ 
+* [left-right: 3 longest substring](https://github.com/un01s/codeplay/blob/main/strings/0003-longestSubstring.cpp)
+
 ## reference
 
 * [algo pattern](https://github.com/greyireland/algorithm-pattern)

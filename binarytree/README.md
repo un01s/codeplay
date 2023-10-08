@@ -1,5 +1,11 @@
 # binary tree
 
+To traverse a binary tree, either DFS (depth-first search) or BFS (breadth-first search).
+
+* DFS: pre-order, in-order, or post-order
+
+* BFS: level-traversal
+
 ## start from max depth of a binary tree
 
 To solve [104 the problem of max depth of a binary tree](https://github.com/un01s/codeplay/blob/main/binarytree/0104-maxDepth.cpp), the recursive post-order traversal is used.

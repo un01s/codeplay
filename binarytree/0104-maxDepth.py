@@ -38,6 +38,35 @@ class Solution:
         return max(l_depth, r_depth) + 1
 
 # 
+# level traversal
+#
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        if root == None:
+            return 0
+        # initialize 
+        que = [root]
+        depth = 0
+        # start to traverse
+        while que:
+            n = len(que)
+            for i in range(n):
+                node = que.pop(0)
+                if node.left:
+                    que.append(node.left)
+                if node.right:
+                    que.append(node.right)
+            depth += 1
+        #
+        return depth
+
+# 
 # another recursive
 #
 class Solution:

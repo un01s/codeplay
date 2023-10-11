@@ -12,4 +12,24 @@ Matrix = [[0]*N for _ in range(M)]
 # or,
 Mat = [[0]*N]*M
 ```
- 
+
+## howto
+
+### [sorting](https://docs.python.org/3/howto/sorting.html)
+
+Either ```sorted()``` returns a new sorted (ascending) list, or
+
+```python
+>>> sorted([5, 2, 3, 1, 4])
+[1, 2, 3, 4, 5]
+```
+
+```list.sort()``` modifies the list in-place.
+
+```python
+>>> a = [5, 2, 3, 1, 4]
+>>> a.sort()
+>>> a
+[1, 2, 3, 4, 5]
+``` 
+

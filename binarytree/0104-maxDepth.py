@@ -25,6 +25,9 @@ For the recursive the computer is helping you and
 it keep tracking the return with the stack.
 """
 
+#
+# DFS
+# 
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root: return 0

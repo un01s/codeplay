@@ -3,6 +3,11 @@
  *
  * DP
  *
+ * mincost[i] = cost[i] + min(mincost[i-1], mincost[i-2])
+ * mincost[0] = cost[0]
+ * mincost[1] = cost[1]
+ *
+ * 
  */
 
 // easier to understand

@@ -34,6 +34,15 @@ Check your localhost, http://127.0.0.1:12345/
 
 An array has a fixed size. A slice is dynamically-sized, flexible view into the elements of an array. 
 
+## Go vs. Rust
+
+| Go | Rust |
+| -- | ---- |
+| garbage collector | static memory management |
+| concurrency | provably-conecurrency |
+| interfaces | traits and other zero-cost abstractions |
+| a better Java/C# | a better C++ |
+
 ## reference
 
 * [Go Programming Language Chinese](https://books.studygolang.com/gopl-zh/)

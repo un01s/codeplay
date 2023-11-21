@@ -45,6 +45,11 @@ $ . ./export.sh
 $
 $ echo $ADF_PATH
 $
+# apply the IDF patches
+$ cd $ADF_PATH/idf_patches
+$ git apply idf_v4.4_freertos.patch 
+$ git apply idf_v4.4_i2s_c3_pdm_tx.patch 
+$
 # find a project
 # configure the project
 $

@@ -58,3 +58,7 @@ $ idf.py build
 
 * [esp-adf get started](https://docs.espressif.com/projects/esp-adf/en/latest/get-started/index.html)
 
+* [esp-adf github](https://github.com/espressif/esp-adf)
+
+* [esp-idf github](https://github.com/espressif/esp-idf)
+

@@ -49,7 +49,12 @@ $
 $ cd $ADF_PATH/idf_patches
 $ git apply idf_v4.4_freertos.patch 
 $ git apply idf_v4.4_i2s_c3_pdm_tx.patch 
+$ idf.py --version
+ESP-IDF v4.4.4-dirty
 $
+# 
+# current esp-idf is just v4.4 not latest v5.0 or v5.1
+#
 # find a project
 # configure the project
 $
